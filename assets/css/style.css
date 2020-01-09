@@ -1,0 +1,42 @@
+.body{
+    color:"#cccccc"
+}
+/* start style index page */
+.cover{
+    background-image: url('../image/lolo.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+    height: 600px;	
+}
+.cover-in{
+	background-color: rgba(0, 0, 1, 0.3);
+	height: 750px;	
+}
+.slogin{
+	background-image: url('../image/ss.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;	
+}
+.slogin-in{
+	background-color: rgba(0,0,0,0.3);
+	height: 500px;	
+}
+.slogin-in p{
+	color: "031915";
+	font-size: 100px;
+	padding-top: 300px; 
+}
+.empty-div{
+	height: 100px;
+}
+/* .navbar-toggle{
+    display: block;
+     width: 22px;
+    background-color: #cccccc;
+} */
+.design{
+    height: 50px;
+    padding-top: 30px;
+     
+}
